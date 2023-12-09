@@ -1,0 +1,14 @@
+/* ---------------   Universal CSS it will add to index.js   ------------- */
+
+* {
+    box-sizing : border-box;
+}
+
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+    margin : 0;
+    background-color : #b7ffd5;
+}
